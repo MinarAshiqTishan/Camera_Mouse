@@ -1,4 +1,4 @@
 # Camera_Mouse
  
  
-[!image](https://github.com/MinarAshiqTishan/Camera_Mouse/blob/master/Capture.JPG)
+[!image](Capture.JPG?raw=true)
